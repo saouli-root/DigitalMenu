@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "foood-eats",
+			"path": ".."
+		},
+		{
+			"name": "Search",
+			"path": "../../Search"
+		}
+	],
+	"settings": {}
+}
